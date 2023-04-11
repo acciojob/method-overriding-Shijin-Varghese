@@ -13,7 +13,8 @@ class Main{
     }
     public static void main(String args[]){
        B a=new B();
-       a.meth();
+
+        System.out.println(a.meth());
     }
 }
 
