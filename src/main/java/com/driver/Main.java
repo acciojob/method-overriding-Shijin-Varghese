@@ -12,7 +12,7 @@ class Main{
         }
     }
     public static void main(String args[]){
-       B obj=nrew B();
+       B obj=new B();
        obj.meth();
     }
 }
